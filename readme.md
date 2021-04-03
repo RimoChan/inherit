@@ -148,3 +148,10 @@ pip install git+https://github.com/RimoChan/inherit.git
 ```python
 from 继承法 import 长子继承制, 分割继承制, 斯堪的纳维亚选举制
 ```
+
+
+## 赞助
+
+如果你觉得学习继承法对你的工作或学习有帮助<sub>(?)</sub>，欢迎给作者介绍一些可爱的萝莉朋友。
+
+就这样，大家88。
